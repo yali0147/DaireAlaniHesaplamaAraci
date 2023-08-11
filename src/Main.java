@@ -13,6 +13,6 @@ public class Main {
        a=imput.nextDouble();
 
        alan= (pi*r*r*a)/360;
-       System.out.print("Dairen Diliminin Alanı : "+alan);
+       System.out.print("Daire Diliminin Alanı : "+alan);
     }
 }
